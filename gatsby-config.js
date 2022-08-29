@@ -5,8 +5,8 @@ const initialOptions = {
   servicesPostPath: `contents/services`,
   title: `Business`,
   description: `I showcase my expertise in this website`,
-  siteUrl: `https://ibaslogic.com`,
-  siteName: `Ibaslogic`,
+  siteUrl: `clever-twilight-016104.netlify.app`,
+  siteName: `GTX360`,
   giHubPostBaseURL: `https://github.com/Ibaslogic/gatsby-site-agency/tree/master/contents/blog/`,
   menuLinks: [
     { name: `blog`, title: `Blog`, url: `` },
